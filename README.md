@@ -23,3 +23,6 @@ Training Model with converting words to vector and Skip-Gram
 - MatPlotLib : Library for showing the charts in python
 - Gensim : Predefined model for converting words to vectors
 
+## Run the Notebook on Google Colab
+
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Skip-Gram/blob/main/Code/Skip_Gram.ipynb)

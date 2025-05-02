@@ -26,3 +26,7 @@ Training Model with converting words to vector and Skip-Gram
 ## Run the Notebook on Google Colab
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Skip-Gram/blob/main/Code/Skip_Gram.ipynb)
+
+## License
+
+This project is licensed under the MIT License.
